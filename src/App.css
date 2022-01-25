@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.board{
+  display: flex;
+  background-color: #def1dd;
+  width: 50%;
+  margin: auto;
+  justify-content: center;
+
+}
+.board-cell{
+  /*border: 1px solid black;*/
+  width: 20px;
+  height: 20px;
+}
+.board-cell-with-snake{
+  /*border: 1px solid black;*/
+  width: 20px;
+  height: 20px;
+  background-color:brown;
+}
+.board-cell-food{
+  /*border: 1px solid black;*/
+  width: 20px;
+  height: 20px;
+  font-size:20px;
+}
+
+.board-cell-head{
+  /*border: 1px solid black;*/
+  width: 20px;
+  height: 20px;
+  background-color:black;
+}
+.head{
+  font-size: 6px;
+  text-align: center;
+}
