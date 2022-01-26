@@ -9,8 +9,14 @@ A - LEFT
 S - DOWN
 D - RIGHT
 
+<img width="807" alt="Screenshot 2022-01-26 at 21 45 29" src="https://user-images.githubusercontent.com/34606242/151202106-2ef8976a-0811-412b-9f3f-66086404bbce.png">
+
 
 Only Desktop Web
+
+https://user-images.githubusercontent.com/34606242/151202073-35e3304c-0afb-406c-ad2b-c1c646cadae5.mov
+
+
 
 
 * Mobile web coming soon...
