@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/risgpta/Snake-Game/static/css/main.f34dfdb8.css",
+    "main.js": "/risgpta/Snake-Game/static/js/main.dd21e060.js",
+    "static/js/787.786e9145.chunk.js": "/risgpta/Snake-Game/static/js/787.786e9145.chunk.js",
+    "static/media/logo.svg": "/risgpta/Snake-Game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/risgpta/Snake-Game/index.html",
+    "main.f34dfdb8.css.map": "/risgpta/Snake-Game/static/css/main.f34dfdb8.css.map",
+    "main.dd21e060.js.map": "/risgpta/Snake-Game/static/js/main.dd21e060.js.map",
+    "787.786e9145.chunk.js.map": "/risgpta/Snake-Game/static/js/787.786e9145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f34dfdb8.css",
+    "static/js/main.dd21e060.js"
+  ]
+}
