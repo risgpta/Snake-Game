@@ -1,8 +1,23 @@
-# Getting Started with Create React App
+# THE OLD SNAKE GAME 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Play it here : https://risgpta.github.io/Snake-Game/
 
-## Available Scripts
+Controls : 
+
+W - UP
+A - LEFT
+S - DOWN
+D - RIGHT
+
+
+Only Desktop Web
+
+
+# Mobile web coming soon...
+
+
+
+
 
 In the project directory, you can run:
 
