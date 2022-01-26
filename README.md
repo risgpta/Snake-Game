@@ -13,7 +13,7 @@ D - RIGHT
 Only Desktop Web
 
 
-# Mobile web coming soon...
+* Mobile web coming soon...
 
 
 
